@@ -5,6 +5,7 @@
 <a href="https://github.com/ben99933/Java-UUID-Generator/releases">releases</a>
 ## 用法
 請命令列執行jar file
->java -jar udpflood.jar <ip> <port> <br>
+>java -jar udpflood.jar <ip> <port>
+
 ip可以用ip address或該目標之hostname<br>
 port僅接受數字<br>
