@@ -6,5 +6,5 @@
 ## 用法
 請命令列執行jar file
 >java -jar udpflood.jar <ip> <port> <br>
->ip可以用ip address或該目標之hostname<br>
->port僅接受數字<br>
+ip可以用ip address或該目標之hostname<br>
+port僅接受數字<br>
