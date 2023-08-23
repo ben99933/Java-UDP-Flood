@@ -7,7 +7,7 @@ A small tool for implementing UDP flood attack in Java<br>
 Please execute the jar file in the command line.<br>
 The IP can be IP address or the hostname of the target.<br>
 The port could be only numbers.<br>
->java -jar udpflood.jar <ip> <port>
+>java -jar udpflood.jar "<ip>" "<port>"
 
 
 
